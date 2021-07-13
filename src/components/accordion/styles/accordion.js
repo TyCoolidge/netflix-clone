@@ -22,7 +22,7 @@ export const Item = styled.div`
   max-width: 700px;
 
   &:first-of-type {
-    margin-top: 3em;
+    margin-top: 2.99em;
   }
 `;
 
